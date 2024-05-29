@@ -4,7 +4,7 @@ local Config = {
 	Keybind = Enum.KeyCode.RightControl
 }
 
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vice1337/free-scripts-for-roblox/main/Muscle-Legends-3623096087"))()
 
 local Name = "Muscle-Legends.txt"
 
